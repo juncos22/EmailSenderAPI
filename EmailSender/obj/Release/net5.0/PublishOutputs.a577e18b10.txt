@@ -1,0 +1,11 @@
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\EmailSender.exe
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\EmailSender.dll
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\EmailSender.deps.json
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\EmailSender.runtimeconfig.json
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\EmailSender.pdb
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nicolas\source\repos\EmailSenderWS\EmailSender\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
